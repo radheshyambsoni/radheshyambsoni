@@ -22,7 +22,7 @@
 <p align = "center">
   <img src= "https://skillicons.dev/icons?i=java,html,css,js,cpp,python&perline=6">
   <br>
-  <img src= "https://skillicons.dev/icons?i=mongodb,react,express,nodejs&perline=4">
+  <img src= "https://skillicons.dev/icons?i=mongodb,react,express,nodejs,nextjs&perline=5">
   <br>
   <img src= "https://skillicons.dev/icons?i=figma,git,vscode&perline=3">
 </p>
@@ -30,8 +30,11 @@
 # 📈 My Stats
 <br>
 <p align = "center">
- <img width="42.5%" src="https://leetcard.jacoblin.cool/radheshyambsoni?theme=dark&font=Klee%20One" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=radheshyambsoni&theme=dark"/></a> 
+</p>
+
+<p align = "center">
+  <a href="https://leetcode.com/radheshyambsoni" target="_blank"><img src="https://leetcard.jacoblin.cool/radheshyambsoni?theme=dark&font=Klee%20One&ext=heatmap"/></a> 
 </p>
 
 [![Radheshyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radheshyambsoni&bg_color=0d1117&color=1f94b2&line=ffffff&point=1e648f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
